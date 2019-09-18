@@ -1,0 +1,842 @@
+1513537576455	geckodriver	INFO	geckodriver 0.18.0
+1513537576466	geckodriver	INFO	Listening on 127.0.0.1:51049
+1513537577584	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513537577857	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1513537578189	Marionette	INFO	Enabled via --marionette
+2017-12-17 21:06:19.425 plugin-container[5610:793803] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513537579823	Marionette	INFO	Listening on port 51062
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1513537579902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513537579936	Marionette	DEBUG	loaded listener.js
+1513537580333	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513537580877	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513537580877	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://a.travel-assets.com/bundles/storefront-web/secondaryContent-bundle/memberOnlyDeals-1-en_US-b9fd9bddd9cbc06accea2cba532f2a3e-min.js, line 1: ReferenceError: Handlebars is not defined
+1513537581744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery182040625755834472266_1513537581780&_=1513537581788, line 1: SyntaxError: missing ; before statement
+1513537585848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588783.fls.doubleclick.net/activityi;src=2588783;type=nausc547;cat=naush134;ord=8910652955722.861?"
+1513537585975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=8910652955722.861;_dc_1=1;~oref=https://www.expedia.com/"
+1513537586125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com.ua/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=8910652955722.861;_dc_1=3;~oref=https://www.expedia.com/"
+1513537586129	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com.ua/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=8910652955722.861;_dc_1=3;~oref=https://www.expedia.com/"
+1513537586131	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=8910652955722.861;_dc_1=1;~oref=https://www.expedia.com/"
+1513537586133	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588783.fls.doubleclick.net/activityi;src=2588783;type=nausc547;cat=naush134;ord=8910652955722.861?"
+1513537586173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.com&kxcl=cdn&kxp="
+1513537586320	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.com&kxcl=cdn&kxp="
+1513537586994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1513537588633	Marionette	DEBUG	Received DOM event "pageshow" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1513537588929	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537719344	geckodriver	INFO	geckodriver 0.18.0
+1513537719350	geckodriver	INFO	Listening on 127.0.0.1:51710
+1513537720429	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1513537720721	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1513537721051	Marionette	INFO	Enabled via --marionette
+2017-12-17 21:08:42.203 plugin-container[5644:796050] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513537722581	Marionette	INFO	Listening on port 51719
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1513537722653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513537722686	Marionette	DEBUG	loaded listener.js
+1513537722777	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513537723179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513537723179	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://a.travel-assets.com/bundles/storefront-web/secondaryContent-bundle/memberOnlyDeals-1-en_US-b9fd9bddd9cbc06accea2cba532f2a3e-min.js, line 1: ReferenceError: Handlebars is not defined
+1513537724576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18206983598852811918_1513537724189&_=1513537724221, line 1: SyntaxError: missing ; before statement
+1513537727130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1513537727130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1513537727130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1513537727130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1513537727130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1513537727131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1513537727132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1513537727163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537727167	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537727168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537727170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537727170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537727171	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537727172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537727173	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537727173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537727177	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537727177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537727178	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537727193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537727194	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537728065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1513537728066	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1513537728066	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1513537728067	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1513537728067	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1513537728068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1513537728069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1513537728201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+1513537728202	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537729446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729565	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729575	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729580	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729588	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729614	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729623	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537729882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn-sec.optmd.com/V2/PSA/4/index.html"
+1513537730025	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn-sec.optmd.com/V2/PSA/4/index.html"
+1513537730039	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1513537730115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588783.fls.doubleclick.net/activityi;src=2588783;type=nausc547;cat=naush134;ord=4191823722412.067?"
+1513537730118	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588783.fls.doubleclick.net/activityi;src=2588783;type=nausc547;cat=naush134;ord=4191823722412.067?"
+1513537730882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1513537731355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.com&kxcl=cdn&kxp="
+1513537731496	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.com&kxcl=cdn&kxp="
+1513537732635	Marionette	DEBUG	Received DOM event "pageshow" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1513537732747	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1513537733164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513537733483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513537733782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1513537733910	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1513537733915	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1513537733921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1513537733955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514221039917	geckodriver	INFO	geckodriver 0.18.0
+1514221039923	geckodriver	INFO	Listening on 127.0.0.1:64170
+1514221041062	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1514221041444	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1514221041837	Marionette	INFO	Enabled via --marionette
+2017-12-25 18:57:23.134 plugin-container[16298:2518366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514221043552	Marionette	INFO	Listening on port 64179
+1514221043573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1514221043613	Marionette	DEBUG	loaded listener.js
+1514221043702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514221044235	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514221044235	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://a.travel-assets.com/bundles/storefront-web/secondaryContent-bundle/memberOnlyDeals-1-en_US-b9fd9bddd9cbc06accea2cba532f2a3e-min.js, line 1: ReferenceError: Handlebars is not defined
+1514221046080	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18206996733698099055_1514221046242&_=1514221046262, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://a.travel-assets.com/globalcontrols-service/content/6876cb2061d1ae4774edfb1157bc0b493b6deac2/scripts/1/en_US/globalcontrols-min.js, line 1: TypeError: n is not a function
+1514221050113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://2588783.fls.doubleclick.net/activityi;src=2588783;type=nausc547;cat=naush134;ord=290680150920.7724?"
+1514221050184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=290680150920.7724;_dc_1=1;~oref=https://www.expedia.com/"
+1514221050352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com.ua/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=290680150920.7724;_dc_1=3;~oref=https://www.expedia.com/"
+1514221050360	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com.ua/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=290680150920.7724;_dc_1=3;~oref=https://www.expedia.com/"
+1514221050361	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=2588783;type=nausc547;cat=naush134;ord=290680150920.7724;_dc_1=1;~oref=https://www.expedia.com/"
+1514221050363	Marionette	DEBUG	Received DOM event "pageshow" for "https://2588783.fls.doubleclick.net/activityi;src=2588783;type=nausc547;cat=naush134;ord=290680150920.7724?"
+1514221050396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.com&kxcl=cdn&kxp="
+1514221050611	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=q1jglrva2&kxt=https%3A%2F%2Fwww.expedia.com&kxcl=cdn&kxp="
+1514221050764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1514221052246	Marionette	DEBUG	Received DOM event "pageshow" for "https://pix.impdesk.com/csync/fire/multi.html?inc=obk,exp"
+1514221052964	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1514221053437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514221053643	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514221053652	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514221053659	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514221053664	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514221053669	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514221053676	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514221053681	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514221053747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1514221053786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514221053787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1514221053788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1514221053789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1514221053789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1514221053790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514221053793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-12-25 19:22:22.600 plugin-container[16510:2537938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+2017-12-25 19:22:32.121 plugin-container[16511:2538048] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514224448466	geckodriver	INFO	geckodriver 0.18.0
+1514224448476	geckodriver	INFO	Listening on 127.0.0.1:65237
+1514224449573	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1514224449853	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1514224450174	Marionette	INFO	Enabled via --marionette
+2017-12-25 19:54:11.394 plugin-container[16711:2561750] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514224451804	Marionette	INFO	Listening on port 65243
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1514224451879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514224451915	Marionette	DEBUG	loaded listener.js
+1514224452285	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514224453250	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514224453250	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://a.travel-assets.com/bundles/storefront-web/secondaryContent-bundle/memberOnlyDeals-1-en_US-b9fd9bddd9cbc06accea2cba532f2a3e-min.js, line 1: ReferenceError: Handlebars is not defined
+1514224454666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18208223808638977593_1514224454277&_=1514224454295, line 1: SyntaxError: missing ; before statement
+1514224455385	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1514224456301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224456992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224457444	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514224457462	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514224457475	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514224457484	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514224457495	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514224457501	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514224457512	Marionette	DEBUG	Received DOM event "pagehide" for "about:srcdoc"
+1514224457557	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514224457590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514224457591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514224457591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1514224457592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514224457593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514224457594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1514224457597	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224457599	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224457604	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224457607	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224457611	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224457614	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224457617	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224457628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224457915	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224458539	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224459704	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.com/"
+1514224461235	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224461250	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.com/"
+1514224461449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514224461450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514224461450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514224461451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514224461452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514224461452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1514224461453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1514224461453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1514224461456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1514224462118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18206147451753017956_1514224461834&_=1514224461840, line 1: SyntaxError: missing ; before statement
+1514224463101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1514224463101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1514224463101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1514224463701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224463734	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224463734	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224463737	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224463737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224463744	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224463920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514224463920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1514224464052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464072	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464143	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464205	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224464296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224464316	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224464334	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464350	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224464404	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224464664	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/dfp/308057/37390337/1512410969962/index.html"
+1514224464675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/dfp/308057/37390337/1512410969962/index.html"
+1514224464695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=92FF9113-85FF-4337-B3A8-598B8B402211&ad_unit_tag_id=35&exit_unit_source=flight_list_page&origination=IEV&destination=LON&page_id=flights.results.redesign&site=EXPEDIA&site_name=EXPEDIA&site_country=US&site_language=en&site_currency=USD&bucket=a1&privacy_policy_link=http%3A%2F%2Fwww.expedia.com%2Fp%2Finfo-other%2Fprivacy-policy.htm&trip_type=ROUND_TRIP&flight_origin=IEV&flight_destination=LON&show_overlay=N&travel_date_start=20171231&travel_date_end=20171231&travelers=1&adults=1&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=ea147caa-b37b-491e-8463-b44430f3f9ba&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&credit_card_types=&publisher_user_id_hashed=d99f0c236cac33676eeaf3a69d6c0d36&publisher_session_id_hashed=e80024bebae7ffd6ee449b4766f9cdd1&site_reporting_value_01=12789_0%3A12787_0%3A13953_0&site_reporting_value_06=page.flight-search-roundtrip.out&cache_buster=9757508&screen_width=1440&screen_height=687&screen_pixel_depth=24&time_zone_offset=120&screen_size=full_screen&page_initialization_id=94705938-3c03-412a-a84b-e4a5e091aee1&hotel_airport_code=LON&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&partner_exp_ids=13953%3A0&koth=false"
+1514224464696	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.cdn.intentmedia.net/a1/cookie_setter.html?publisher_user_id=92FF9113-85FF-4337-B3A8-598B8B402211&ad_unit_tag_id=35&exit_unit_source=flight_list_page&origination=IEV&destination=LON&page_id=flights.results.redesign&site=EXPEDIA&site_name=EXPEDIA&site_country=US&site_language=en&site_currency=USD&bucket=a1&privacy_policy_link=http%3A%2F%2Fwww.expedia.com%2Fp%2Finfo-other%2Fprivacy-policy.htm&trip_type=ROUND_TRIP&flight_origin=IEV&flight_destination=LON&show_overlay=N&travel_date_start=20171231&travel_date_end=20171231&travelers=1&adults=1&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=ea147caa-b37b-491e-8463-b44430f3f9ba&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&credit_card_types=&publisher_user_id_hashed=d99f0c236cac33676eeaf3a69d6c0d36&publisher_session_id_hashed=e80024bebae7ffd6ee449b4766f9cdd1&site_reporting_value_01=12789_0%3A12787_0%3A13953_0&site_reporting_value_06=page.flight-search-roundtrip.out&cache_buster=9757508&screen_width=1440&screen_height=687&screen_pixel_depth=24&time_zone_offset=120&screen_size=full_screen&page_initialization_id=94705938-3c03-412a-a84b-e4a5e091aee1&hotel_airport_code=LON&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&partner_exp_ids=13953%3A0&koth=false"
+1514224464792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.cdn-net.com/s2?t=AZDjS8LstsQldHBq0GbbfoyG&x=1&sid=eeb0e3596d8e435b89bf23a76&tid=y00qqeruw&expuserid=&guid=92ff911385ff4337b3a8598b8b402211"
+1514224464795	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.cdn-net.com/s2?t=AZDjS8LstsQldHBq0GbbfoyG&x=1&sid=eeb0e3596d8e435b89bf23a76&tid=y00qqeruw&expuserid=&guid=92ff911385ff4337b3a8598b8b402211"
+1514224464804	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224635616	geckodriver	INFO	geckodriver 0.18.0
+1514224635623	geckodriver	INFO	Listening on 127.0.0.1:65493
+1514224636725	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1514224637014	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1514224637344	Marionette	INFO	Enabled via --marionette
+2017-12-25 19:57:18.476 plugin-container[16737:2564691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514224638861	Marionette	INFO	Listening on port 65502
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1514224638931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514224638979	Marionette	DEBUG	loaded listener.js
+1514224639100	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514224640033	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514224640033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://a.travel-assets.com/bundles/storefront-web/secondaryContent-bundle/memberOnlyDeals-1-en_US-b9fd9bddd9cbc06accea2cba532f2a3e-min.js, line 1: ReferenceError: Handlebars is not defined
+1514224640576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18202786029826331682_1514224640699&_=1514224640704, line 1: SyntaxError: missing ; before statement
+1514224641916	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/"
+1514224642636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224643411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224644031	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224644142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224644538	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514224645497	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.expedia.com/"
+1514224647048	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.expedia.com/"
+1514224647126	Marionette	DEBUG	Received DOM event "unload" for "https://www.expedia.com/"
+1514224647585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514224647586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514224647595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514224647598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514224647599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514224647600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1514224647601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1514224647601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1514224647602	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1514224648270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+JavaScript error: https://suggest.expedia.com/api/v4/ping?callback=jQuery18204546717488778259_1514224648075&_=1514224648736, line 1: SyntaxError: missing ; before statement
+1514224650324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1514224650324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1514224650324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1514224650376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1514224650376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1514224650377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1514224650415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224650892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224650895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514224650897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1514224651138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1514224651145	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1514224651177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1514224651653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651656	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651727	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651757	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651808	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224651975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224651998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652057	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652068	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652189	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.cdn-net.com/s2?t=AZttNOgTsJeE7zgpVdzyR1Dj&x=1&sid=eeb0e3596d8e435b89bf23a76&tid=q5hcfkteb&expuserid=&guid=58c721f243694023a4fe5e24f9a8603a"
+1514224652299	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.cdn-net.com/s2?t=AZttNOgTsJeE7zgpVdzyR1Dj&x=1&sid=eeb0e3596d8e435b89bf23a76&tid=q5hcfkteb&expuserid=&guid=58c721f243694023a4fe5e24f9a8603a"
+1514224652303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652307	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/dfp/308057/69785897/1511535330780/Hilton_wintersale_exp_728x90_en/index.html"
+1514224652324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a.cdn.intentmedia.net/a2/cookie_setter.html?publisher_user_id=58C721F2-4369-4023-A4FE-5E24F9A8603A&ad_unit_tag_id=35&exit_unit_source=flight_list_page&origination=IEV&destination=LON&page_id=flights.results.redesign&site=EXPEDIA&site_name=EXPEDIA&site_country=US&site_language=en&site_currency=USD&bucket=a2&privacy_policy_link=http%3A%2F%2Fwww.expedia.com%2Fp%2Finfo-other%2Fprivacy-policy.htm&trip_type=ROUND_TRIP&flight_origin=IEV&flight_destination=LON&show_overlay=N&travel_date_start=20171231&travel_date_end=20171231&travelers=1&adults=1&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=ad7e3ccc-b866-4320-a55d-e6bac3b940a1&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&credit_card_types=&publisher_user_id_hashed=bdcc5a6e5dfece43ff3213e08a862bfa&publisher_session_id_hashed=30365a1e1ec54fd990bff878e65fa1cc&site_reporting_value_01=12789_0%3A12787_0%3A13953_0&site_reporting_value_06=page.flight-search-roundtrip.out&cache_buster=5286275&screen_width=1440&screen_height=687&screen_pixel_depth=24&time_zone_offset=120&screen_size=full_screen&page_initialization_id=d545d66a-e8ed-4757-82a2-f3324eb5e592&hotel_airport_code=LON&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&partner_exp_ids=13953%3A0&koth=false"
+1514224652326	Marionette	DEBUG	Received DOM event "pageshow" for "https://a.cdn.intentmedia.net/a2/cookie_setter.html?publisher_user_id=58C721F2-4369-4023-A4FE-5E24F9A8603A&ad_unit_tag_id=35&exit_unit_source=flight_list_page&origination=IEV&destination=LON&page_id=flights.results.redesign&site=EXPEDIA&site_name=EXPEDIA&site_country=US&site_language=en&site_currency=USD&bucket=a2&privacy_policy_link=http%3A%2F%2Fwww.expedia.com%2Fp%2Finfo-other%2Fprivacy-policy.htm&trip_type=ROUND_TRIP&flight_origin=IEV&flight_destination=LON&show_overlay=N&travel_date_start=20171231&travel_date_end=20171231&travelers=1&adults=1&children=0&display_format_type=Desktop&show_ads=Y&show_exit_units=Y&publisher_session_id=ad7e3ccc-b866-4320-a55d-e6bac3b940a1&is_member=N&is_logged_in_user=N&product_category=flights&is_signed_up_for_promo_email=N&user_previously_searched=N&page_view_type=LIST&expedia_cookie_aspp=v.1%2C0%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C&credit_card_types=&publisher_user_id_hashed=bdcc5a6e5dfece43ff3213e08a862bfa&publisher_session_id_hashed=30365a1e1ec54fd990bff878e65fa1cc&site_reporting_value_01=12789_0%3A12787_0%3A13953_0&site_reporting_value_06=page.flight-search-roundtrip.out&cache_buster=5286275&screen_width=1440&screen_height=687&screen_pixel_depth=24&time_zone_offset=120&screen_size=full_screen&page_initialization_id=d545d66a-e8ed-4757-82a2-f3324eb5e592&hotel_airport_code=LON&request_generator=im-js&altsvc=false&requested_number_of_prechecks=2&partner_exp_ids=13953%3A0&koth=false"
+1514224652333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/dfp/308057/69785897/1511535330780/Hilton_wintersale_exp_728x90_en/index.html"
+1514224652334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn-sec.optmd.com/V2/PSA/2/index.html"
+1514224652357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn-sec.optmd.com/V2/PSA/2/index.html"
+1514224652381	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn-sec.optmd.com/V2/PSA/2/index.html"
+1514224652389	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652391	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn-sec.optmd.com/V2/PSA/2/index.html"
+1514224652402	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html"
+1514224652416	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F31%2F2017&endDate=12%2F31%2F2017&_xpid=11905%7C1&mode=search&trip=roundtrip&leg1=from%3AIEV%2Cto%3ALondon%2Cdeparture%3A12%2F31%2F2017TANYT&leg2=from%3ALondon%2Cto%3AIEV%2Cdeparture%3A12%2F31%2F2017TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY"
+1514224655432	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://s0.2mdn.net/dfp/308057/69785897/1511535330780/Hilton_wintersale_exp_728x90_en/greensock/plugins/CSSPlugin.min.js, line 12: TypeError: Z(...) is null
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1514228423215	geckodriver	INFO	geckodriver 0.18.0
+1514228423227	geckodriver	INFO	Listening on 127.0.0.1:49631
+1514228424323	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1514228424645	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1514228424954	Marionette	INFO	Enabled via --marionette
+1514228426720	Marionette	INFO	Listening on port 49640
+2017-12-25 21:00:26.723 plugin-container[17128:2610255] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1514228426788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514228426835	Marionette	DEBUG	loaded listener.js
+1514228427201	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514228428085	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514228428085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514228429712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1514228430624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514228430627	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514228430628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514228430629	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514228431441	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1514228431579	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1514228431582	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1514228431775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514228433459	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514228434186	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514228434187	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514228434515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1514228434548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514228434549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514228434709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514228434712	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514228434714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514228434715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514228435693	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1514228435995	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1514726651355	geckodriver	INFO	geckodriver 0.18.0
+1514726651363	geckodriver	INFO	Listening on 127.0.0.1:51573
+1514726652488	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1514726652866	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1514726653247	Marionette	INFO	Enabled via --marionette
+2017-12-31 15:24:14.534 plugin-container[2304:192173] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514726654960	Marionette	INFO	Listening on port 51582
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1514726655011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514726655046	Marionette	DEBUG	loaded listener.js
+1514726655514	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514726656459	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514726656459	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514726661158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1514726662419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1514726662426	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1514726663130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514726663133	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514726663133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514726663136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514726664532	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1514726664703	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1514726664899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514726666113	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514726666772	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514726666773	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514726667113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1514726667140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514726667140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1514726667353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514726667355	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514726667460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514726667462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514726667474	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1514726667663	Marionette	INFO	New connections will no longer be accepted
+1514750653179	geckodriver	INFO	geckodriver 0.18.0
+1514750653186	geckodriver	INFO	Listening on 127.0.0.1:54028
+1514750654316	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1514750654686	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1514750655034	Marionette	INFO	Enabled via --marionette
+2017-12-31 22:04:16.340 plugin-container[5068:431299] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x850f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514750656703	Marionette	INFO	Listening on port 54037
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1514750656773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514750656809	Marionette	DEBUG	loaded listener.js
+1514750657285	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514750658163	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514750658163	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514750659440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1514750660364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514750660367	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514750660367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514750660369	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514750660396	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1514750660544	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1514750660547	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1514750660741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514750662158	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514750662900	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514750662901	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1514750663261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1514750663292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514750663292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514750663420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514750663422	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1514750663422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514750663424	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1514750663455	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299"
+1514750663713	Marionette	INFO	New connections will no longer be accepted
+1515018288495	geckodriver	INFO	geckodriver 0.18.0
+1515018288501	geckodriver	INFO	Listening on 127.0.0.1:62364
+1515018289602	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515018289941	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515018290306	Marionette	INFO	Enabled via --marionette
+2018-01-04 00:24:51.670 plugin-container[12953:1019885] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515018292049	Marionette	INFO	Listening on port 62370
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515018292132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515018292167	Marionette	DEBUG	loaded listener.js
+1515018370426	geckodriver	INFO	geckodriver 0.18.0
+1515018370439	geckodriver	INFO	Listening on 127.0.0.1:62484
+1515018371537	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515018371817	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515018372174	Marionette	INFO	Enabled via --marionette
+2018-01-04 00:26:13.656 plugin-container[12979:1021797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515018374060	Marionette	INFO	Listening on port 62493
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515018374169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515018374204	Marionette	DEBUG	loaded listener.js
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1515018968618	geckodriver	INFO	geckodriver 0.18.0
+1515018968626	geckodriver	INFO	Listening on 127.0.0.1:62645
+1515018969749	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515018970059	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515018970316	geckodriver	INFO	geckodriver 0.18.0
+1515018970324	geckodriver	INFO	Listening on 127.0.0.1:62667
+1515018970403	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515018970411	Marionette	INFO	Enabled via --marionette
+1515018970691	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515018971230	Marionette	INFO	Enabled via --marionette
+2018-01-04 00:36:13.098 plugin-container[13164:1031345] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515018973668	Marionette	INFO	Listening on port 62654
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515018973728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515018973780	Marionette	DEBUG	loaded listener.js
+2018-01-04 00:36:14.173 plugin-container[13165:1031496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515018974819	Marionette	INFO	Listening on port 62673
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515018974907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515018974961	Marionette	DEBUG	loaded listener.js
+1515018980531	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1515018981481	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1515019019657	geckodriver	INFO	geckodriver 0.18.0
+1515019019662	geckodriver	INFO	Listening on 127.0.0.1:62939
+1515019020740	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515019020985	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515019021298	Marionette	INFO	Enabled via --marionette
+2018-01-04 00:37:02.367 plugin-container[13185:1033088] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515019022737	Marionette	INFO	Listening on port 62948
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515019022842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515019022876	Marionette	DEBUG	loaded listener.js
+1515019028997	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+2018-01-07 13:38:55.776 plugin-container[18383:1499381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515331968889	geckodriver	INFO	geckodriver 0.18.0
+1515331968896	geckodriver	INFO	Listening on 127.0.0.1:54551
+1515331970038	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515331970346	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515331970688	Marionette	INFO	Enabled via --marionette
+2018-01-07 15:32:52.239 plugin-container[19526:1608986] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e0f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515331972724	Marionette	INFO	Listening on port 54557
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515331972821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515331972866	Marionette	DEBUG	loaded listener.js
+1515331973290	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515331975134	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515331975134	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515331978169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515331979505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515331979687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515331979691	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515331979691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515331979693	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515331979695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515331979697	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515331979698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515331979699	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515331981691	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515331981708	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515331993957	Marionette	INFO	New connections will no longer be accepted
+1515332008813	geckodriver	INFO	geckodriver 0.18.0
+1515332008820	geckodriver	INFO	Listening on 127.0.0.1:54679
+1515332009910	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515332010170	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515332010546	Marionette	INFO	Enabled via --marionette
+2018-01-07 15:33:31.738 plugin-container[19539:1610140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515332012084	Marionette	INFO	Listening on port 54688
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515332012144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515332012175	Marionette	DEBUG	loaded listener.js
+1515332012550	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515332014236	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515332014237	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515332018377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515332019463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515332019629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515332019638	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515332019639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515332019641	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515332019650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515332019653	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515332019654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515332019655	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515332022208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515332022212	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515332022448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515332022450	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515332023220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515332023312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515332023316	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515332023424	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515332023433	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515332035615	Marionette	INFO	New connections will no longer be accepted
+1515354867117	geckodriver	INFO	geckodriver 0.18.0
+1515354867125	geckodriver	INFO	Listening on 127.0.0.1:56102
+1515354868233	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515354868521	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515354868850	Marionette	INFO	Enabled via --marionette
+2018-01-07 21:54:30.158 plugin-container[20866:1744225] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515354870576	Marionette	INFO	Listening on port 56108
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515354870629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515354870669	Marionette	DEBUG	loaded listener.js
+1515354871080	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515354873550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515354873551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515354877644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515354878859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515354879642	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354879648	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354879648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354879650	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354880704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354880705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354880705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354880706	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354881413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354881415	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354881447	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515354881456	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515354881956	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1515354881961	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/courses"
+1515354882032	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/p/practice"
+1515354882158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515354917164	geckodriver	INFO	geckodriver 0.18.0
+1515354917170	geckodriver	INFO	Listening on 127.0.0.1:56223
+1515354918262	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515354918517	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515354918834	Marionette	INFO	Enabled via --marionette
+2018-01-07 21:55:19.945 plugin-container[20882:1745066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8733, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515354920263	Marionette	INFO	Listening on port 56232
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515354920370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515354920403	Marionette	DEBUG	loaded listener.js
+1515354920486	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515354922522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515354922522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515354925606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515354926980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515354928391	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354928399	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354928780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354928782	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354928782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354928783	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515354928948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354928949	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354928949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354928950	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515354929696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354929699	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354930844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354930846	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354931050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354931051	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515354931849	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1515354932158	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515354932165	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515354932845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1515356060854	geckodriver	INFO	geckodriver 0.18.0
+1515356060860	geckodriver	INFO	Listening on 127.0.0.1:56410
+1515356061957	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515356062226	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515356062528	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:14:23.561 plugin-container[21360:1762455] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515356063896	Marionette	INFO	Listening on port 56419
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515356063929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515356063961	Marionette	DEBUG	loaded listener.js
+1515356064033	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515356066039	geckodriver	INFO	geckodriver 0.18.0
+1515356066044	geckodriver	INFO	Listening on 127.0.0.1:56481
+1515356066996	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515356066996	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515356067135	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515356067449	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515356067876	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:14:29.800 plugin-container[21366:1762652] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515356069851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515356070225	Marionette	INFO	Listening on port 56495
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515356070265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515356070327	Marionette	DEBUG	loaded listener.js
+1515356071010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515356071283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356071289	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356072001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515356072330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356072334	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356072381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356072391	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356072393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356072395	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356072784	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515356072784	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515356072964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356072967	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356073937	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356073941	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356073983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515356074306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515356075505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356075508	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356076069	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356076071	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356076516	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1515356076810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515356078070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356078075	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356078075	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356078082	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356078082	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356078084	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515356078084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356078085	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515356078131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356078133	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356078384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356078386	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356079140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515356080150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356080151	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356080866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356080867	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515356081155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1515356081418	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515356081423	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515356082169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515356082187	Marionette	DEBUG	loaded listener.js
+1515356082576	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515356082584	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515356083387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515356083421	Marionette	DEBUG	loaded listener.js
+1515356089602	Marionette	INFO	New connections will no longer be accepted
+1515356090453	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+2018-01-07 22:14:55.243 plugin-container[21372:1763645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515357855152	geckodriver	INFO	geckodriver 0.18.0
+1515357855158	geckodriver	INFO	Listening on 127.0.0.1:56788
+1515357856245	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515357856494	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515357856841	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:44:18.085 plugin-container[21707:1789362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515357858305	Marionette	INFO	Listening on port 56797
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515357858350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515357858387	Marionette	DEBUG	loaded listener.js
+1515357858733	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515357860670	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515357860670	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515357865570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515357866759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515357866943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515357866949	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515357866950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515357866952	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515357867502	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515357867504	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515357867504	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515357867505	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515357869357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515357869360	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515357869448	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515357869457	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515357875866	Marionette	INFO	New connections will no longer be accepted
+1515435526427	geckodriver	INFO	geckodriver 0.18.0
+1515435526434	geckodriver	INFO	Listening on 127.0.0.1:59079
+1515435527584	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515435527934	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515435528287	Marionette	INFO	Enabled via --marionette
+2018-01-08 20:18:49.606 plugin-container[23574:1929402] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515435530397	Marionette	INFO	Listening on port 59085
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515435530480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515435530538	Marionette	DEBUG	loaded listener.js
+1515435530910	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515435533801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515435533801	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515435537261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515435538693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515435539399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435539406	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435539406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435539408	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435540959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435540960	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435540960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435540961	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435541271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435541274	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435541353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435541355	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435542280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515435542550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435542555	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435542771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435542776	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435543313	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515435543323	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515435547839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515435551911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515435553713	Marionette	INFO	New connections will no longer be accepted
+1515435565563	geckodriver	INFO	geckodriver 0.18.0
+1515435565569	geckodriver	INFO	Listening on 127.0.0.1:59215
+1515435566677	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515435566948	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1515435567270	Marionette	INFO	Enabled via --marionette
+2018-01-08 20:19:28.359 plugin-container[23586:1930647] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515435568894	Marionette	INFO	Listening on port 59221
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1515435568989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515435569024	Marionette	DEBUG	loaded listener.js
+1515435569408	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515435571748	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515435571749	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515435575624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1515435576873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435576879	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435576886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435576890	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435577225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1515435577335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435577337	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515435577338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435577339	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515435579190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435579193	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435579706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435579708	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435580198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515435581109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435581110	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435581274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435581275	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515435582113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1515435583284	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1515435583294	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1515435587709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515435591838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515435593630	Marionette	INFO	New connections will no longer be accepted
